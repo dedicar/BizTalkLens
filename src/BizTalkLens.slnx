@@ -1,0 +1,10 @@
+<Solution>
+  <Project Path="../tests/BizTalkLens.Tests/BizTalkLens.Tests.csproj" Id="be2033f8-46c5-468c-b2d2-c659ac6b821f" />
+  <Project Path="BizTalkLens.Api/BizTalkLens.Api.csproj" Id="8605bc1c-d183-4e9a-bc52-c682d9a3508a" />
+  <Project Path="BizTalkLens.Cli/BizTalkLens.Cli.csproj" Id="866b9102-ceeb-41aa-95f8-05c317214236" />
+  <Project Path="BizTalkLens.Connectors/BizTalkLens.Connectors.csproj" Id="d02189d5-ba86-4ff7-aeb7-7b2d22c65f14" />
+  <Project Path="BizTalkLens.Engine/BizTalkLens.Engine.csproj" Id="78a4e3c1-8e80-4832-8264-cb8288383ee8" />
+  <Project Path="BizTalkLens.Extensions/BizTalkLens.Extensions.csproj" Id="b78cfc29-407e-47ff-b0df-7443e8cf0e75" />
+  <Project Path="BizTalkLens.Hosting/BizTalkLens.Hosting.csproj" Id="ef17f9ae-671e-4052-afa2-2962c0ad8a85" />
+  <Project Path="BizTalkLens.Web/BizTalkLens.Web.csproj" Id="b6d3a8f7-ce1c-4da6-9ec4-1b082e81a431" />
+</Solution>
